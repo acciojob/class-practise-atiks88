@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
-.custom-paragraph {
+.selector{
   color: #00f;
-  background-color: #eee;
+  background-color: rgb(238, 238, 238);
   font-family: Arial;
   font-size: 20px;
 }
